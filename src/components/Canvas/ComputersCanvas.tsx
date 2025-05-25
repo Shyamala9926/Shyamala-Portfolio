@@ -299,7 +299,7 @@ const FuturisticProfileCanvas = () => {
     }}>
       <div ref={mountRef} style={{ width: '100%', height: '100%' }} />
       
-      {/* Text overlay *//*}
+     
       <div style={{
         position: 'absolute',
         bottom: '20%',
