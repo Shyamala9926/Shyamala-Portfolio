@@ -23,7 +23,7 @@ const Contact: React.FC = () => {
     e.preventDefault();
     setLoading(true);
 
-    // In a real implementation, you'd send the form data to a server
+    
     // For demonstration purposes, we'll just simulate a successful submission
     setTimeout(() => {
       setLoading(false);
