@@ -27,7 +27,7 @@ const Contact: React.FC = () => {
     // For demonstration purposes, we'll just simulate a successful submission
     setTimeout(() => {
       setLoading(false);
-      alert('Thank you. I will get back to you as soon as possible.');
+      alert('Thank you! I will get back to you as soon as possible.');
       setForm({
         name: '',
         email: '',
