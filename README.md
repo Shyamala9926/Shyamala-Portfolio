@@ -1,3 +1,3 @@
 ﻿# Shyamala-Portfolio
 
-To View :shyamala-portfolio.netlify.app
+To View :https:/shyamala-portfolio.netlify.app
